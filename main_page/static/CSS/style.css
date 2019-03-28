@@ -1,0 +1,17 @@
+
+.main-block{
+    height: 400px;
+    width: 700px;
+    border-width: 1px;
+    border-style: solid;
+    position: relative;
+    margin-left:auto;
+    margin-top: 50px;
+    margin-right: auto;
+}
+
+.product-image{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    height: 270px;
+}
